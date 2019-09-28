@@ -2,23 +2,23 @@
 This repository contains the codes for the course on Computational Physics: PH305. This course involved Computer Science, Applied Mathematics and Physics knowledge to solve various complex problems in Physics
 
 ### Assignment 10
-![Assignment 10](https://drive.google.com/open?id=1XnuZvGr0jAw1L8T4Ayl59IVR7824eYv2)
+![Assignment 10](assignments/10.png)
 ### Assignment 9
-![Assignment 9](https://drive.google.com/open?id=1gOp-TfKzwp6o6chpNAtZqVoki5z5iXNI)
+![Assignment 9](assignments/9.png)
 ### Assignment 8
-![Assignment 8](https://drive.google.com/open?id=1wY3SbXwyw9vMXe0YHpSYNenhLJloBUy1)
+![Assignment 8](assignments/8.png)
 ### Assignment 7
-![Assignment 7](https://drive.google.com/open?id=1okpUzgRtfCzMbsFuXXlMXsgDraLDK7W1)
+![Assignment 7](assignments/7.png)
 ### Assignment 6
-![Assignment 6](https://drive.google.com/open?id=19BsEqFskavz-92KLVMd_NzD95f_jPupX)
+![Assignment 6](assignments/6.png)
 ### Assignment 5
-![Assignment 5](https://drive.google.com/open?id=1oOOsOBgALQZvc62SR2IO5NHkb_QqliLt)
+![Assignment 5](assignments/5.png)
 ### Assignment 4
-![Assignment 4](https://drive.google.com/open?id=1v0BgJhD3np06BKtWeI9iDJigl1C3j0ZD)
+![Assignment 4](assignments/4.png)
 ### Assignment 3
-![Assignment 3](https://drive.google.com/open?id=1Y0cSoKJy-927DWnhZLoDkMkknK0Opkbw)
+![Assignment 3](assignments/3.png)
 ### Assignment 2
-![Assignment 2](https://drive.google.com/open?id=1XnuZvGr0jAw1L8T4Ayl59IVR7824eYv2)
+![Assignment 2](assignments/2.png)
 ### Assignment 1
-![Assignment 1](https://drive.google.com/open?id=1XnuZvGr0jAw1L8T4Ayl59IVR7824eYv2)
+![Assignment 1](assignments/1.png)
 
