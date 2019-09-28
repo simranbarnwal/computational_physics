@@ -2,7 +2,7 @@
 This repository contains the codes for the course on Computational Physics: PH305. This course involved Computer Science, Applied Mathematics and Physics knowledge to solve various complex problems in Physics
 
 ### Assignment 10
-![Assignment 10](assignments/10.png)
+![Assignment 10](assignments/10.png){:width="400px"}
 ### Assignment 9
 ![Assignment 9](assignments/9.png)
 ### Assignment 8
