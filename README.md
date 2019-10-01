@@ -25,8 +25,5 @@ This repository contains the codes for the course on Computational Physics: PH30
 ### Assignment 3
 <img src="assignments/3.png" width="600" class="center"/>
 
-### Assignment 2
-<img src="assignments/2.png" width="600" class="center"/>
-
 ### Assignment 1
 <img src="assignments/1.png" width="600" class="center"/>
